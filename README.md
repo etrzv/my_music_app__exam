@@ -1,0 +1,1 @@
+This is the "My Music app" application from the SoftUni exam 27.02.22 uploaded with testing purposes.
